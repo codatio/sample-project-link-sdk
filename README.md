@@ -1,4 +1,4 @@
-# link-sdk-sample-project
+# sample-project-link-sdk
 
 This is a sample project adding a rudimentry implementation of [@codat/link-sdk](https://www.npmjs.com/package/@codat/link-sdk) to a default [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) project.
 
